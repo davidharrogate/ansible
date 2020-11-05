@@ -1,9 +1,5 @@
 [web_servers]
 10.0.0.7
-10.0.0.8
-
-[drupal]
-10.0.0.8
 
 [workstations]
 10.0.0.7
